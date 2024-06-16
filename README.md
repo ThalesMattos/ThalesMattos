@@ -1,6 +1,7 @@
 ## 🚀 Sobre mim
 Prazer! Sou Thales Mattos, entusiasta da área de tecnologia e desenvolvedor full-stack com foco em back-end.
 
+
 ## 💻 Tecnologias que uso
 <div align="left">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="java logo" />
